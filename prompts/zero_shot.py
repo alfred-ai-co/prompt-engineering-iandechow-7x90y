@@ -1,5 +1,5 @@
 ZERO_SHOT_PROMPT = """
-Given the following topic {input}, generate a quiz with a random number of questions between 1 to 5.
+Given the following topic {input}, generate a quiz with a 5 question that increase in difficulty.
 
 {format_instructions}
 """
